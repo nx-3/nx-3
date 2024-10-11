@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<head>
-  <style>
-    a{text-decoration: none;}
-  </style>
-</head>
 <h1 align="center">Hi 👋, I'm Nx3</h1>
 <h3 align="center">Developer, game maker and modder</h3>
 
